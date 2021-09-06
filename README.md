@@ -1,15 +1,15 @@
-#Dario Volkmann.
+![image](https://i.postimg.cc/jS6kr0ht/Git-PROFILE.jpg)
 
-_Estudiante de Programacion Web_
+__
 
 ## About me 💡
 
-Aprendiendo constantemente. 👨‍💻
+Estudiante de Programacion Web | Aprendiendo constantemente. 👨‍💻
 
 Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia. 
 
 
-![image](https://i.postimg.cc/7PX13PYF/banner.png)
+
 
 
 ## Skills
