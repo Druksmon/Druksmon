@@ -1,7 +1,7 @@
 ![image](https://i.postimg.cc/jS6kr0ht/Git-PROFILE.jpg)
 
 
-##Acerca de mí
+## Acerca de mí
 
 Estudiante de Programacion Web | Aprendiendo constantemente. 👨‍💻
 
