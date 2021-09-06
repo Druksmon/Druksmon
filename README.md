@@ -3,7 +3,7 @@
 
 ## Acerca de mí
 
-Estudiante de Programacion Web | Aprendiendo constantemente. 👨‍💻
+Estudiante de Programación Web | Aprendiendo constantemente. 👨‍💻
 
 Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia. 
 
