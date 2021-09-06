@@ -26,4 +26,5 @@ Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia.
 
 + dariusvolkmann@gmail.com
 + [LinkedIn](www.linkedin.com/in/dario-volkmann)
++ www.linkedin.com/in/dario-volkmann
 
