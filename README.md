@@ -15,7 +15,7 @@ Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia.
 
 ## Conocimiento en: 🛠️
 
-![](SKILLS.png)
+![](https://postimg.cc/kBTsZ9Pc)
 
 
 ## Aprendiendo 🖇️
