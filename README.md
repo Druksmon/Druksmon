@@ -16,11 +16,6 @@ Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia.
 ![](https://i.postimg.cc/T36sKYkZ/SKILLS.png)
 
 
-## Estudiando 
-
-+ Android 
-+ React
-
 ## Contacto
 
 + dariusvolkmann@gmail.com
