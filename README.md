@@ -5,11 +5,6 @@
 
 Front End Developer & UX UI Desginer | Always Learning. 👨‍💻
 
-Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia. 
-
-
-
-
 
 ## Skills
 
