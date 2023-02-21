@@ -1,9 +1,9 @@
 ![image](https://i.postimg.cc/jS6kr0ht/Git-PROFILE.jpg)
 
 
-## Acerca de mí
+## About me 
 
-Estudiante de Programación Web | Aprendiendo constantemente. 👨‍💻
+Front End Developer & UX UI Desginer | Always Learning. 👨‍💻
 
 Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia. 
 
@@ -16,8 +16,8 @@ Aficionado a la tecnologia | Coding | Diseño y edicion de multimedia.
 ![](https://i.postimg.cc/T36sKYkZ/SKILLS.png)
 
 
-## Contacto
+## Contact
 
 + dariusvolkmann@gmail.com
-+ www.linkedin.com/in/dario-volkmann
++ https://www.linkedin.com/in/dariovolk/
 
