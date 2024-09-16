@@ -3,13 +3,7 @@
 
 ## About me 
 
-Front End Developer & UX UI Desginer | Always Learning. 👨‍💻
-
-
-## Skills
-
-![](https://i.postimg.cc/T36sKYkZ/SKILLS.png)
-
+UI Designer & Web Developer
 
 ## Contact
 
