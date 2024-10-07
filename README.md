@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/jS6kr0ht/Git-PROFILE.jpg)
+
 
 
 ## About me 
